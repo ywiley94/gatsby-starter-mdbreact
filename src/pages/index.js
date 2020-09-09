@@ -23,12 +23,10 @@ const IndexPage = () => (
         <MDBCol size="auto" md="8">
           <h1 className="pb-3">Hi people</h1>
           <p className="lead grey-text">
-            Welcome to your new Gatsby site. Kick off your next, great Gatsby
-            project with this default starter. This barebones starter ships with
-            the main Gatsby configuration files you might need.
+            This is another gstsby site
           </p>
           <h4 className="py-3">
-            This starter is configured for the following;
+            Hello There
           </h4>
           <div>
             <MDBBadge size="lg" color="dark" className="mr-3 mb-3 p-2">
